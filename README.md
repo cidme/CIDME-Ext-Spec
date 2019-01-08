@@ -1,3 +1,9 @@
+![CIDME project banner logo - dual](logos/cidme-banner_logo-dual-750x150.png "CIDME project banner logo - dual")
+![CIDME Ext Spec QR code - cidme://public/EntityContext/450f9bca-877b-4252-814b-fe00a64247be](logos/cidme-js_implementation-qr_code-350x350.png "CIDME Ext Spec QR code - cidme://public/EntityContext/450f9bca-877b-4252-814b-fe00a64247be")
+
+CIDME Ext Spec CIDME ID/URL: _cidme://public/EntityContext/450f9bca-877b-4252-814b-fe00a64247be_
+
+
 # CIDME-Ext-Spec
 CIDME Recommended Extensions Specification
 
